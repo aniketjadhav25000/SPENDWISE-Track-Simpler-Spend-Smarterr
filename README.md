@@ -2,6 +2,8 @@
 
 SpendWise is a sleek, responsive Expense Management System designed to help users visualize their financial health through data-driven insights. Built with a PHP/MySQL backend and a modern Tailwind CSS frontend, it offers a high-end dashboard experience for both mobile and desktop users.
 
+**🔗 Live Demo:** [https://daily-expense.fwh.is/](https://daily-expense.fwh.is/)
+
 ## ✨ Key Features
 * **Intelligent Dashboard:** View total outflow and item counts at a glance.
 * **Wallet Health Monitor:** Dynamic status alerts (Good, Warning, Critical) based on spending thresholds.
